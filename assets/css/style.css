@@ -1,0 +1,17 @@
+
+#header{
+    background-image: url("../images/polar-express.png");
+    background-position: contain;
+    text-align: center;
+    height: 350px;
+    width: 1255px;
+    
+    margin-top: 10px;
+    color: white;
+    background-color: brown;
+    padding: 20px;
+}
+
+.row {
+    margin: auto;
+}
